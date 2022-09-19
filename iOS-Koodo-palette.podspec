@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '20618497' => 'akshay.pandey@telus.com' }
-  s.source           = { :git => 'https://github.com/telus/iOS-Koodo-Palette.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/telus/iOS-koodo-palette.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
