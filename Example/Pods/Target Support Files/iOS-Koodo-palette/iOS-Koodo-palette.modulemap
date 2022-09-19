@@ -1,0 +1,6 @@
+framework module iOS_Koodo_palette {
+  umbrella header "iOS-Koodo-palette-umbrella.h"
+
+  export *
+  module * { export * }
+}
